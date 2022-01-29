@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\код\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\код\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\код\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(7,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\код\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\код\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\код\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\код\ConsoleApplication1\Debug\ConsoleApplication1.exe
